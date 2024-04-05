@@ -2,7 +2,7 @@
 
 
 Repo containing the library Management and tax calc project
-# Employee Management
+# Library Management
 
 Library Management
 
